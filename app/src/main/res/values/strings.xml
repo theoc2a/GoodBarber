@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GoodBarberApp</string>
+    <string name="ask">Quel produit cherchez vous?</string>
+    <string name="btM">Manuel</string>
+    <string name="btS">Scan</string>
+    <string name="button">Rechercher</string>
 </resources>
